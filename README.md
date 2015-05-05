@@ -1,4 +1,4 @@
 # hello-world
-My first repository on GitHub.
-work hard !
+My first repository on GitHub.\r\n
+work hard !\r\n
 focus your mind !
